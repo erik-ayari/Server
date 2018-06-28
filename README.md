@@ -4,4 +4,4 @@
 # Erik:
 # Server.java | ChatroomGUI.java
 #
-# ReceivesMessages.java (Sockets/JSON: Niels, GUI:Erik)
+# ReceivesMessages.java (Sockets/JSON: Niels, GUI/Thread:Erik)
