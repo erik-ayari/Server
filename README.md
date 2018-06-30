@@ -1,6 +1,6 @@
 # Server
 # Niels:
-# DistributeMessages.java | ServerSession.java | JSON
+# DistributeMessages.java | ServerSession.java
 # Erik:
 # Server.java | ChatroomGUI.java
 #
